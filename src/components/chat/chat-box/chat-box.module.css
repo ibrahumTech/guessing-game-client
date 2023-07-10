@@ -1,0 +1,34 @@
+.container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px 5px 5px 32px;;
+    margin: 0px;
+    background-color: #6f748f;
+    border-radius: 0px 0px 3px 3px;
+    width: 100%;
+    height: 50px;
+}
+
+.input {
+    background: #1c1c1f;
+    color: #FFF;
+    width: 69%;
+    border: solid 1px rgba(255, 255, 255, 0.2);
+    height: 40px;
+    font-size: 16px;
+}
+
+.send {
+  background: linear-gradient(to right, #ff8a00, #da1b60);
+  color: #fff;
+  border: none;
+  margin-left: 15px;
+  height: 39px;
+  width: 25%;
+}
+
+
+
+
+

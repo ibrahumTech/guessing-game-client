@@ -1,0 +1,45 @@
+/* CustomTable.css */
+.custom-table {
+    width: 100%;
+    /* border-collapse: collapse; */
+    box-shadow: 2px 2px 4px rgba(34, 38, 44, 0.5);
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    margin-top: 11px;
+}
+
+
+.custom-table th{
+    padding: 0.32rem 0.32rem 0.32rem 0.8rem;
+    vertical-align: top;
+    /*border-top: 1px solid #dee2e6;*/
+}
+.custom-table td {
+    padding: 0.44rem 0.44rem 0.44rem 0.8rem;
+    vertical-align: top;
+    /*border-top: 1px solid #dee2e6;*/
+}
+
+.custom-table thead th {
+    vertical-align: bottom;
+    /*border-bottom: 1px solid #dee2e6;*/
+}
+
+.custom-table tbody + tbody {
+    /*border-top: 1px solid #dee2e6;*/
+}
+
+.custom-table .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+
+
+.custom-table tbody tr:nth-child(even) {
+    background-color: rgba(17, 44, 36, 0.7); /* Set background color for even rows */
+}
+
+.custom-table tbody tr:nth-child(odd) {
+    background-color: rgba(96, 90, 90, 0.37); /* Set background color for odd rows */
+}

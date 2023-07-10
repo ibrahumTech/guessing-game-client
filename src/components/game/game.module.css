@@ -1,0 +1,129 @@
+.container {
+    padding: 1px;
+    height: 400px;
+    margin: 10px;
+    width : 350px;
+    margin-right: 0px;
+}
+
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction : column;  
+}
+
+.input {
+    background: #1c1c1f;
+    color: #FFF;
+    width: 69%;
+    border: solid 1px rgba(255, 255, 255, 0.2);
+    height: 40px;
+    font-size: 16px;
+}
+
+.send {
+    background: linear-gradient(to right, #ff8a00, #da1b60);
+    color: #fff;
+    border: none;
+    margin-left: 15px;
+    height: 39px;
+    width: 25%;
+}
+
+.gameContainer {
+    border-radius: 8px;
+    background-color : #22262c ;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    padding: 1px;
+    height: 350px;
+    margin: 10px;
+    width : 350px;
+    box-shadow: 2px 2px 4px rgba(34, 38, 44, 0.5);
+}
+
+.smallCard{
+    border-radius: 8px;
+    background-color: rgb(34, 38, 44);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding-right: 1px;
+    padding-left: 1px;
+    height: 40px;
+    margin: 0px     0px 10px;
+    width: 230px;
+    box-shadow: rgba(34, 38, 44, 0.5) 2px 2px 4px;
+}
+
+.iconContainerLeft{
+    border-radius: 8px;
+    background-color: #17181a;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    width: 21px;
+    text-align: center;
+    /* margin: 7px; */
+    /* padding-bottom: 2px; */
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    /* margin-top: 7px; */
+    height: 23px;
+    margin: 7px 3px 0px 17px;
+}
+
+.iconContainerRight{
+    border-radius: 8px;
+    background-color: #17181a;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    width: 21px;
+    text-align: center;
+    /* margin: 7px; */
+    /* padding-bottom: 2px; */
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    /* margin-top: 7px; */
+    height: 23px;
+    margin: 7px 13px 0px 3px;
+}
+
+.iconPoints{
+    border-radius: 8px;
+    background-color: #17181a;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    width: 21px;
+    text-align: center;
+    /* margin: 7px; */
+    /* padding-bottom: 2px; */
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-top: 4px;
+    height: 29px;
+}
+
+.startBtn{
+    background: linear-gradient(to right, rgb(255, 138, 0), rgb(218, 27, 96));
+    color: rgb(255, 255, 255);
+    border: none;
+    width: 100%;
+    height: 43px;
+}
+
+.containerSlider{
+    border-radius: 8px;
+    background-color: rgb(34, 38, 44);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    height: 58px;
+    margin: 2px 0px 10px;
+    width: 100%;
+    box-shadow: rgba(34, 38, 44, 0.5) 2px 2px 4px;
+    padding: 14px;
+    padding-top: 3px;
+}
+
+.subject{
+    margin-left: 4px;
+}
+
+
+
+
+

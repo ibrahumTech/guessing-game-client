@@ -1,0 +1,20 @@
+.custom-slider .ant-slider-rail {
+    background-color: #ebedf0; 
+  height: 8px; 
+  border-radius: 4px; 
+}
+
+.custom-slider .ant-slider-track {
+    background-color: #1890ff; 
+  height: 8px; 
+  border-radius: 4px; 
+}
+
+.custom-slider .ant-slider-handle {
+    background-color: #1890ff; 
+  border-color: #1890ff; 
+  height: 16px; 
+  width: 16px; 
+  margin-top: -4px; 
+  margin-left: -8px; 
+}

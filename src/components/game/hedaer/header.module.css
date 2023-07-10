@@ -1,0 +1,29 @@
+.high{
+    height: 50px;
+}
+
+.smallCard {
+    border-radius: 8px;
+    background-color : #22262c;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    padding: 1px;
+    height: 40px;
+    margin: 0px 10px 10px 10px;
+    width : 230px;
+    box-shadow: 2px 2px 4px rgba(34, 38, 44, 0.5);
+}
+
+.subject{
+    margin-left: 24%;
+    margin-top: 4px;
+}
+
+.bigCard {
+    border-radius: 8px;
+    background-color : #22262c;
+    border: solid 2px rgba(255, 255, 255, 0.2);
+    padding: 1px;
+    height: 350px;
+    width : 750px;
+    box-shadow: 2px 2px 4px rgba(34, 38, 44.5);
+}
